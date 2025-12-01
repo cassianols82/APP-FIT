@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CLS Fitness Coach",
+  "description": "Planos criados para o teu corpo. Evolução sem adivinhações. Uma aplicação de fitness premium com IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
